@@ -54,13 +54,6 @@ Open the `index.html` file in your browser.
 
 No additional installation is required.
 
-## 📸 Screenshots
-
-```text
-screenshots/
-├── home-page.png
-├── blog-page.png
-└── responsive-view.png
 ```
 
 ## 🎯 Project Purpose

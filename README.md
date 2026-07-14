@@ -56,8 +56,6 @@ No additional installation is required.
 
 ## 📸 Screenshots
 
-Add screenshots of your project:
-
 ```text
 screenshots/
 ├── home-page.png
